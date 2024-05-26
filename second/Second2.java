@@ -1,6 +1,6 @@
-package first;
+package second;
 
-public class First {
+public class Second2{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -11,5 +11,8 @@ public class First {
 		System.out.println("hello3");
 		System.out.println("hello4");
 	}
+
+
+
 
 }
